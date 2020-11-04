@@ -16,6 +16,7 @@ PKUHoleRecorder
 不论如何，青研在独裁封锁的道路上越走越远，爬虫已几乎没有生存空间。<br>
 今日，[无名树洞](https://pkuhole.com)也暂时无法访问。祝开发者一切安好。<br><br>
 
+**在此公布我的PGP Key，可以用于向我发送加密信息。**<br><br>
 
 ### 友情链接
 https://pkuhole.com/<br>
