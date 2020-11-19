@@ -14,7 +14,7 @@ PKUHoleRecorder
 另外，销户功能似乎无法正常工作，表现为显示成功销户但登录状态仍可用。目前不清楚这些状况出现的时间。<br>
 
 不论如何，青研在独裁封锁的道路上越走越远，爬虫已几乎没有生存空间。<br>
-今日，[无名树洞](https://pkuhole.com)也暂时无法访问。祝开发者一切安好。<br>
+今日，[无名树洞](https://pkuhole.com)也暂时无法访问。祝开发者一切安好。<br><br>
 
 ### **2020-11-19 图片来源知乎**
 ![image](https://github.com/AowuCat/PKUHoleRecorder/blob/master/pic.jpg) <br><br>
