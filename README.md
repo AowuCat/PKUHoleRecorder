@@ -22,6 +22,7 @@ PKUHoleRecorder
 
 
 ### 友情链接
+https://www.pkuhollow.com/<br>
 https://pkuhole.com/<br>
 https://github.com/martinwu42/pkuholebackup<br><br>
 2020-11-19 19:00
